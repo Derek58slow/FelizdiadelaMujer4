@@ -65,8 +65,8 @@ function goBack() {
 // ===== FUNCIONALIDAD DE LA PÁGINA DE MENSAJE =====
 
 // Variables para el efecto de typing
-const message = "Eres la persona más especial del mundo.\n\nTu sonrisa ilumina cada día y tu amor hace que todo sea perfecto.\n\nGracias por ser tan maravillosa.";
-const loveMessage = "Te amo";
+const message = "Mamita y Lauren, gracias por ser parte tan importante de mi vida.\n\nSu amor, apoyo y cariño hacen que cada día sea mejor.\n\nGracias por ser parte de mi vida y siempre estar para mi.";
+const loveMessage = "Feliz Día de la Mujer. Las quiero mucho";
 let i = 0;
 let loveI = 0;
 const typingSpeed = 60;
@@ -195,3 +195,4 @@ function showMessage() {
         }, 2500);
     }
 }
+
